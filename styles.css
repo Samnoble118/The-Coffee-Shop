@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+  .cacLogo{
+      width: 100px;
+      
+  }
+
+  .shopFrontPic{
+      width: 300px;
+      border-radius: 10px;
+  }
+
+  .intro{
+      display: flex;
+      align-items: flex-start;
+  }
+
+  .logoIntro{
+      margin: 20px;
+  }
+  .textIntro{
+    
+    display: inline-block;
+    
+    margin: 0px 20px;
+  }
+
+  .imgIntro{
+    
+    display: inline-block;
+    
+    margin:10px;
+  }
+
+.covidWhole{
+    background-color: rgb(182, 182, 182);
+}
+
+.covidSection{
+    background-color: rgb(182, 182, 182);
+    display: flex;
+}
+
+  .covidImg img{
+    margin:20px;
+    width: 300px;
+    border-radius: 10px;
+  }
+
+  .covidText{ 
+    margin:10px;
+  }
+
+  .clickCollect{
+    background-color: rgb(182, 182, 182);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px 30px;
+    border-top: 4px solid #fff;
+  }
+
+  .clickCollect p{
+      padding: 20px 50px;
+  }
+  .clickCollect button{
+      margin: 10px 20px;
+      padding: 10px;
+      background-color: black;
+      color: white;
+      border-radius: 5px;
+      border: 0;
+      font-size: large;
+      font-weight: bold;
+      cursor: pointer;
+
+  }
+
+
+  .btnCaC{
+      color: white;
+      text-decoration: none;
+  }
+
+  .helloSection{
+      display: inline-flex;
+      margin: 10px;
+  }
+
+  .btnDiv{
+    text-align: center;
+  }
+
+  .btnDiv button{
+    margin: 10px 20px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .contactBtn{
+    color: white;
+    text-decoration: none;
+    
+  }
+
+  .contact-us{
+      margin: 50px 50px 50px 50px;
+  }
+
+  .contactDetails{
+      margin: 50px 100px;
+      text-align: center;
+  }
+
+  .socialIcon{
+      width: 20px;
+      margin: 0px 0px 0px 20px;
+      cursor: pointer;
+  }
+
+  .socialLink{
+      text-decoration: none;
+      color: black;
+  }
+
+  .xmasSection{
+      justify-content: center;
+      text-align: center;
+      background-color: rgb(182, 182, 182);
+      padding: 20px;
+  }
+  
+
+  .grid-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+  }
+
+  .grid-item {
+    padding: 0px;
+    font-size: 20px;
+    text-align: center;
+  }
+  .grid-item img{
+    width: 200px;
+    padding: 0;
+  }
+
+  .testimonials{
+      padding: 50px;
+  }
+
+  .test-title{
+      text-align: center;
+      margin: 0px 0px 50px 0px;
+  }
+
+  .reviews{
+      display: inline-flex;
+  }
+
+  .test-text{
+      margin: 20px;
+  }
+
+  .newsletter{
+      background-color: rgb(182, 182, 182);
+  }
+
+  .news-top{
+      text-align: center;
+  }
+
+  .email-box{
+      margin: 50px 0px;
+  }
+  .email-box input{
+      width: 450px;
+      height: 30px;
+  }
+
+  .concent{
+      background-color: rgba(255, 255, 255, 0.719);
+      margin: 50px 400px 0px 400px;
+      padding: 20px;
+  }
+  .tac{
+     background-color: white;
+    display: inline-flex;
+    margin: 0px 400px;
+  }
+  .tac img{
+      width: 100px;
+  }
+
+  .btn-get{
+      text-align: center;
+  }
+  .btn-get button{
+      background-color: black;
+      color: white;
+      width: 400px;
+      height: 50px;
+      margin: 50px 0px;
+  }
+ .email-tick{
+     width: 20px;
+     height: 20px;
+ }
+
+ .bottom-logo{
+    display: inline-flex;
+    margin: 50px;
+    
+ }
+
+ .blank-space{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+ }
+
+ .copyright-text{
+     margin: 0px 200px;
+ }
+
+ 
